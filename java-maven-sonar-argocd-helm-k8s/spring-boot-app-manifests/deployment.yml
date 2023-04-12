@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: poojap29/ultimate-cicd:13
+        image: poojap29/ultimate-cicd:3
         ports:
         - containerPort: 8080
